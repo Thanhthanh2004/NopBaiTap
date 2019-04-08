@@ -1,0 +1,24 @@
+- S? khác nhau gi?a 2 thu?c tính "id" và "name"?
+- Có bao nhiêu cách d? khai báo css cho trang web, cho ví d? v?i m?i cách, cách nào thì trình duy?t nh?n uu tiên cao hon?
+- Dùng các cách nào d? t?o 1 du?ng k? ngang màu den trên trang web, cho ví d? v?i m?i cách?
+- Màu xanh duong có mã là #0000FF, v?y ý nghia c?a #0000FF là gì?
+- S? khác nhau gi?a margin và padding, mô t? tru?ng h?p s? d?ng d?i v?i m?i cái?
+- Dùng các cách nào d? canh gi?a m?t kh?i ph?n t?, cho ví d? v?i m?i cách?
+- Có 1 button id là #button, d? d?i màu button sang d? và d?i con tr? sang hình bàn tay khi di chuy?n chu?t trên button, thì css sao cho dúng?
+=>#button:color:red; 
+=>(thu?c tính padding là kho?ng tr?ng n?m gi?a n?i dung và vi?n. 
+Padding bao quanh 4 m?t c?a n?i dung, tuy nhiên chúng ta có th? nh?m m?c tiêu c?a padding và thay d?i padding c?a t?ng bên v?i css, hay nói theo cách d? hi?u padding là kho?ng cách so v?i th? con. 
+Còn margin là kho?ng tr?ng n?m gi?a vi?n và ph?n t? ti?p theo. Chúng ta c? hi?u không gian tính t? vi?n t?i các ph?n t? khác du?c g?i là margin. 
+Cung tuong t? nhu padding thì margin cung bao quanh 4 m?t và b?n có th? nh?m m?c tiêu margin trên, du?i, trái, ph?i cho nó, n?u nhu padding là kho?ng cách so v?i th? con thì margin là kho?ng cách so v?i th? cha.)
+=>
+=>Có 03 cách chèn CSS vào HTML :
+
+-          External Style Sheet. (css ngo?i tuy?n)//là t?o 1 file css riêng, ko n?m trong html
+
+-          Inline Style. (css c?c b?)//vi?t mã trong th? html trong thu?c tính style, css ch? có tác d?ng trong th? html dó
+
+-          Internal Style Sheet. (css n?i tuy?n)//css du?c vi?t tru?c ti?p n?m trong 1 c?p th?
+=>- Name ch? áp d?ng cho các control (textbox, checkbox...). Có th? có nhi?u control trùng tên.
+- Id áp d?ng cho t?t c? các th? HTML. Id thì không du?c trùng nhau.
+
+
